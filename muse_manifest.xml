@@ -1,0 +1,21 @@
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.autoescuelavirtual.ga" resolutions="1x" timestamp="1614358337308">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="513752873" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:index"/>
+    <file name="museutils.js" crc="3939489907" ref="phone>index:index"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:index"/>
+    <file name="museconfig.js" crc="128606099" ref="phone>index:index"/>
+    <file name="jquery.watch.js" crc="522499760" ref="phone>index:index"/>
+    <file name="require.js" crc="4177726516" ref="phone>index:index"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="index.css" crc="4041414421" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="3782647381" seo="true" mt="1614354576545" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="393376788" seo="true" mt="1614354746359" redirect="true"/>
+</manifest>
