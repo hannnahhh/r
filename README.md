@@ -1,1 +1,1 @@
-autoescuelavirtual.github.io
+www.autoescuelavirtual.ga
