@@ -1,0 +1,42 @@
+Logging in build 2018.1.1.6 started at: Wed Feb 24 21:04:16 2021
+========================================
+
+==========
+Logging ended at: Wed Feb 24 21:04:26 2021
+
+Logging in build 2018.1.1.6 started at: Wed Feb 24 21:05:13 2021
+========================================
+
+==========
+Logging ended at: Wed Feb 24 21:05:14 2021
+
+Logging in build 2018.1.1.6 started at: Wed Feb 24 21:28:16 2021
+========================================
+
+==========
+Logging ended at: Wed Feb 24 21:28:18 2021
+
+Logging in build 2018.1.1.6 started at: Thu Feb 25 16:00:13 2021
+========================================
+[00:00:26.610] 16:00:40.791 | Error - IMS : ErrorCode=22 ErrorMessage=
+[00:06:54.766] 16:07:08.955 | quitWithUI:Quitting Application. Called by: 
+[00:06:54.782] 16:07:08.959 | Quitting Application after 6.7 minutes. Called by: 
+[00:06:59.704] Logging shutdown normally
+
+==========
+Logging ended at: Thu Feb 25 16:07:13 2021
+
+Logging in build 2018.1.1.6 started at: Thu Feb 25 16:22:39 2021
+========================================
+[02:03:34.407] 18:26:14.329 | Beginning SaveAs of 'Sitio Web-1' to file 'C:\Users\anna9\OneDrive\Imágenes\Sitio Web-1.muse' highest UID:125
+[02:03:36.422] 18:26:16.349 | SaveAs complete for file 'C:\Users\anna9\OneDrive\Imágenes\Sitio Web-1.muse' file size:458752 mod Date:Thu Feb 25 18:26:16 GMT+0100 2021 highest UID:125
+[02:03:37.641] 18:26:17.579 | quitWithUI:Quitting Application. Called by: 
+[02:03:39.454] 18:26:19.390 | Quitting Application after 123.5 minutes. Called by: 
+[02:03:44.641] Logging shutdown normally
+
+==========
+Logging ended at: Thu Feb 25 18:26:24 2021
+
+Logging in build 2018.1.1.6 started at: Fri Feb 26 15:55:34 2021
+========================================
+[01:53:41.250] 17:49:21.366 | HTMLExport Sitio Web-1(2 pages) to 'www.autoescuelavirtual.ga' completed with 0 warnings.
