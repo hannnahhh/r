@@ -1,10 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://www.autoescuelavirtual.ga/index.html</loc>
-    <lastmod>2021-02-26</lastmod>
+    <loc>http://autoescuela.ga/index.html</loc>
+    <lastmod>2021-02-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://www.autoescuelavirtual.ga/phone/index.html"/>
+  </url>
+  <url>
+    <loc>http://autoescuela.ga/carnet-b.html</loc>
+    <lastmod>2021-02-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://autoescuela.ga/pregunta-1.html</loc>
+    <lastmod>2021-02-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://autoescuela.ga/pregunta-1---copia.html</loc>
+    <lastmod>2021-02-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://autoescuela.ga/pregunta-1---copia---copia.html</loc>
+    <lastmod>2021-02-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://autoescuela.ga/pregunta-1---copia---copia---copia.html</loc>
+    <lastmod>2021-02-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://autoescuela.ga/pregunta-2.html</loc>
+    <lastmod>2021-02-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
 </urlset>

@@ -1,21 +1,29 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.autoescuelavirtual.ga" resolutions="1x" timestamp="1614358337308">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="autoescuela.ga" resolutions="1x" timestamp="1614448998649">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="513752873" ref="index"/>
+    <file name="index.css" crc="3778873204" ref="index"/>
+    <file name="nomq_index.css" crc="4082015935" ref="index"/>
+    <file name="carnet-b.css" crc="3811758547" ref="carnet-b"/>
+    <file name="pregunta-1---copia.css" crc="4255572894" ref="pregunta-1---copia"/>
+    <file name="pregunta-1.css" crc="3887386765" ref="pregunta-1"/>
+    <file name="pregunta-1---copia---copia---copia.css" crc="4208500904" ref="pregunta-1---copia---copia---copia"/>
+    <file name="pregunta-1---copia---copia.css" crc="4072321939" ref="pregunta-1---copia---copia"/>
+    <file name="pregunta-2.css" crc="476082415" ref="pregunta-2"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:index"/>
-    <file name="museutils.js" crc="3939489907" ref="phone>index:index"/>
-    <file name="whatinput.js" crc="86476730" ref="phone>index:index"/>
-    <file name="museconfig.js" crc="128606099" ref="phone>index:index"/>
-    <file name="jquery.watch.js" crc="522499760" ref="phone>index:index"/>
-    <file name="require.js" crc="4177726516" ref="phone>index:index"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:carnet-b:pregunta-1:pregunta-1---copia:pregunta-1---copia---copia:pregunta-1---copia---copia---copia:pregunta-2"/>
+    <file name="museutils.js" crc="3939489907" ref="index:carnet-b:pregunta-1:pregunta-1---copia:pregunta-1---copia---copia:pregunta-1---copia---copia---copia:pregunta-2"/>
+    <file name="whatinput.js" crc="86476730" ref="index:carnet-b:pregunta-1:pregunta-1---copia:pregunta-1---copia---copia:pregunta-1---copia---copia---copia:pregunta-2"/>
+    <file name="museconfig.js" crc="128606099" ref="index:carnet-b:pregunta-1:pregunta-1---copia:pregunta-1---copia---copia:pregunta-1---copia---copia---copia:pregunta-2"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index:carnet-b:pregunta-1:pregunta-1---copia:pregunta-1---copia---copia:pregunta-1---copia---copia---copia:pregunta-2"/>
+    <file name="jquery.museresponsive.js" crc="95814420" ref="index"/>
+    <file name="require.js" crc="4177726516" ref="index:carnet-b:pregunta-1:pregunta-1---copia:pregunta-1---copia---copia:pregunta-1---copia---copia---copia:pregunta-2"/>
   </folder>
-  <folder name="phone">
-    <folder name="css">
-      <file name="index.css" crc="4041414421" ref="phone>index"/>
-    </folder>
-    <file name="index.html" crc="3782647381" seo="true" mt="1614354576545" redirect="true"/>
-  </folder>
-  <file name="index.html" crc="393376788" seo="true" mt="1614354746359" redirect="true"/>
+  <file name="index.html" crc="4139636118" seo="true" mt="1614448785857" redirect="true"/>
+  <file name="carnet-b.html" crc="205992767" seo="true" mt="1614446242231" redirect="true"/>
+  <file name="pregunta-1.html" crc="4041779968" seo="true" mt="1614447970744" redirect="true"/>
+  <file name="pregunta-1---copia.html" crc="3795634193" seo="true" mt="1614447970752" redirect="true"/>
+  <file name="pregunta-1---copia---copia.html" crc="3916157008" seo="true" mt="1614447970751" redirect="true"/>
+  <file name="pregunta-1---copia---copia---copia.html" crc="402114299" seo="true" mt="1614447970748" redirect="true"/>
+  <file name="pregunta-2.html" crc="278443927" seo="true" mt="1614448406207" redirect="true"/>
 </manifest>
